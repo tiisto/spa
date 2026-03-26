@@ -5,6 +5,12 @@ const routes = {
         content: `
             <div class="page">
                 <h2>🏠 Home</h2>
+                <div style="text-align: center; margin: 2rem 0;">
+                    <img src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=600&q=80" 
+                         alt="Cute golden retriever dog" 
+                         style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+                    <p style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">🐕 Meet the goodest boy!</p>
+                </div>
                 <p>Welcome to this simple Single Page Application built with vanilla JavaScript!</p>
                 <p>This SPA demonstrates:</p>
                 <ul>
@@ -12,6 +18,7 @@ const routes = {
                     <li>🎨 Smooth page transitions</li>
                     <li>📱 Responsive design</li>
                     <li>🚀 GitHub Pages hosting</li>
+                    <li>🐶 Cute dog pictures!</li>
                 </ul>
                 <p>Click the navigation links above to explore different pages without reloading!</p>
             </div>
