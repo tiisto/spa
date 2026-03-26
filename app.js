@@ -52,6 +52,25 @@ const routes = {
                 <h2>📊 Career Statistics</h2>
                 
                 <div class="highlight-box">
+                    <h3>📈 Recent HLTV Ratings (Last 3 Months)</h3>
+                    <div class="stats-grid" style="margin-top: 1rem;">
+                        <div class="stat-card">
+                            <span class="stat-number">1.59</span>
+                            <span class="stat-label">IEM Kraków 2026 (Jan-Feb)</span>
+                        </div>
+                        <div class="stat-card">
+                            <span class="stat-number">#1</span>
+                            <span class="stat-label">Highest Rated Player</span>
+                        </div>
+                        <div class="stat-card">
+                            <span class="stat-number">12</span>
+                            <span class="stat-label">Maps Played</span>
+                        </div>
+                    </div>
+                    <p style="margin-top: 1rem; font-size: 0.9rem;">IEM Kraków 2026: ZywOo dominated with 1.59 rating, outperforming donk (1.38) and all other competitors.</p>
+                </div>
+
+                <div class="highlight-box">
                     <h3>🔥 2025 Season Highlights</h3>
                     <ul>
                         <li><strong>9 Tournament Wins</strong> including 2 Majors</li>
